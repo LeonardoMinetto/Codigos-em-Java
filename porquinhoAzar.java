@@ -1,4 +1,4 @@
-porquinhoAzart porquinho(){
+public int porquinho(){
     int numP=0;
     int qtdJogadas=0;
     while(numP<300){
