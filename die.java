@@ -15,4 +15,7 @@ public class Die{
     public void die() {
         System.out.println("die")
     }
+    public void die() {
+        System.out.println("penis")
+    }
 }

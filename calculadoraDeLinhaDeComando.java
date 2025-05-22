@@ -24,4 +24,7 @@ public class calculadoraDeLinhaDeComando {
     public static void DizerOi() {
         System.out.println("oi")
     }
+    public static void DizerOi() {
+        System.out.println("gay")
+    }
 }
