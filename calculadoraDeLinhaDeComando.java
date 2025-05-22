@@ -30,4 +30,7 @@ public class calculadoraDeLinhaDeComando {
     public static void DizerTchau() {
         System.out.println("tchau")
     }
+    public static void Dizerain() {
+        System.out.println("ain")
+    }
 }
