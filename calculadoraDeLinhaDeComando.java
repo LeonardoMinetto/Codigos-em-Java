@@ -20,4 +20,8 @@ public class calculadoraDeLinhaDeComando {
 
         System.out.println( "="  +resultado);
     }
+
+    public static void DizerOi() {
+        System.out.println("oi")
+    }
 }
